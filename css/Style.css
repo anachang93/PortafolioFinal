@@ -1,0 +1,222 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+
+#sec-main{
+	align-content: center;
+	text-align: center;
+	padding: 100px;
+	height: 700px;
+	padding-top: 200px;
+	
+	
+	background-image: url(../img/Life20in20Photos20Annawithlove20Blog-4.jpg);
+	background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+	background-size: cover;
+
+}
+
+
+#sec-main h2{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 60px;
+	color: #fff;
+	padding: 10px;
+}
+
+.ButtonVerMas{
+	color: #fff;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	text-align: center;
+	font: bold;
+	
+	border: solid 2px #fff;
+	
+	padding: 10px 50px;
+}
+
+.ButtonVerMas:hover {
+	background-color: #FFFFFF;
+	color: darkgray;
+}
+
+.ButtonContacto{
+	border: solid 2px lightgray;
+	text-align: center;
+	font-size: 12px;
+}
+
+.ButtonContacto:hover{
+	background-color: #FFFFFF;
+	color: transparent;
+}
+
+.navbar-header{
+	padding: 10px;
+	color: lightgray;
+}
+
+.nav{
+	font-size: 12px;
+	padding: 10px;
+	color: lightgray;
+}
+
+#sec-services h4{
+	text-transform: uppercase;
+	font-size: 20px;
+	padding: 10px ;
+}
+
+#sec-services h3{
+	font-size: 15px;
+}
+
+#sec-services{
+	padding: 20px;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+#sec-services h2{
+	text-transform: uppercase;
+	font: bold;
+	padding: 10px;
+	font-size: 30px;
+}
+
+#sec-hola{
+	background-image: url( ../img/Hola.jpg);
+	background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+	background-size: cover;
+	
+	align-content: center;
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 60px;
+}
+
+#HolaMuchoGusto{
+	margin-top: 50px;
+	margin-left: 50px;
+	padding-left: 90px;
+}
+
+#descripcion{
+	text-align: justify;
+	padding-top: 50px;
+}
+
+#firma{
+	margin-left: 400px;
+	margin-top: 30px;
+	
+}
+
+#sec-slides{
+	background-color: rgba(0,0,0,0.57);
+	padding-left: 230px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	background-image: url(../img/Life20in20Photos20Annawithlove20Blog-4.jpg);
+	background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+	background-size: cover;
+}
+
+#portafolio-img{
+	margin-left: 250px;
+	margin-bottom: 10px;
+}
+
+#sec-content{
+	
+	background-image: url( ../img/anachang.jpg);
+	background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+	background-size: cover;
+	
+	padding-bottom: 40px;
+	padding-top: 40px;
+	padding-left: 350px;
+	align-content: center;
+	
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+#contactame{
+	padding-left: 200px;
+	padding-top: 50px;
+}
+
+.ButtonContinuar{
+	border: solid 2px rgba(0,0,0,1.00);
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	padding: 5px;
+	text-align: center;
+	color: #000000;
+	font-size: 20px;
+	font:bold;
+	
+}
+
+#buttoncontinuar{
+	padding-left: 250px;
+	padding-top: 50px;
+}
+
+#servicios{
+	background-image: url(../img/servicios.jpg);
+	height: 800px;
+	background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+	background-size: cover;
+	
+	padding-left: 100px;
+	
+}
+
+#fotoservicios{
+	padding-left: 385px;
+	padding-top: 70px;
+	padding-bottom: 30px;
+}
+
+#servicios h4{
+	color: #FFFFFF;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .50px;
+	padding: 5px;
+}
+
+#servicios p{
+	text-align: justify;
+	color: #fff;
+	padding-bottom: 50px;
+}
+
+#footer{
+	height: 50px;
+	padding-bottom: 50px;
+}
+
+#icons{
+	padding-left: 530px;
+	padding-top: 20px;
+}
+
+
